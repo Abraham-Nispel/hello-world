@@ -1,3 +1,6 @@
 # hello-world
-This project is to learn GitHub
 
+Hi there!
+
+AB Here.
+Bye.
